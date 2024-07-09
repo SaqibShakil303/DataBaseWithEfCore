@@ -1,0 +1,57 @@
+.vs/ 
+# User-specific files
+*.suo
+*.User
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.userprefs
+
+# Build result
+[Db]ebug/
+[Db]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+#MSTust test results    
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+#NUNIT
+*.VisualState.xml
+TestResult.xml
+
+#Build result of an ATL project
+[Db]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+#DNX
+project.lock.json
+artifacts/
+
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*svg_proj
